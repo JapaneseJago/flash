@@ -1,2 +1,2 @@
 # ChronosUnknownUnblockedGames
-This is a website i made for school that allows me to play any flash game i want and i decided to share it with other people so they can too!
+## This is a website i originally made for using at my school for only my friends and I. But i decided to release it to the internet for ## free so other people can easily make their own flash game sites really easily.
