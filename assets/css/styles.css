@@ -1,0 +1,80 @@
+body {
+  background-size: cover;
+}
+
+#welcome-para {
+  text-align: center;
+  font-size: 26px;
+}
+
+@media (min-width: 1920px) {
+  :root {
+    zoom: 135%;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link {
+}
+
+#GameJumbo {
+  text-align: center;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-color: #454141;
+}
+
+bo {
+}
+
+video {
+}
+
+#EEBody {
+  text-align: center;
+}
+
+#EEB {
+  outline: none;
+}
+
+#EEB {
+  outline: none;
+}
+
+#EEB {
+  outline: none;
+}
+
+#East {
+  outline: none;
+  background-color: rgba(69,65,65,0);
+  color: rgba(255,255,255,0);
+}
+
+#monero-jumbo {
+  background-color: rgba(130,127,127,0.86);
+  text-align: center;
+}
+
+#MainBody {
+}
+
+#Games_Body {
+  text-align: center;
+}
+
+#Main_Body {
+  text-align: center;
+}
+
+#freedom-jumbo {
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  #Sound-Board-Para {
+    height: 181px;
+  }
+}
+
